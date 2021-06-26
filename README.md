@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  ![codewars](https://www.codewars.com/users/anas-arsyad/badges/small)
+<!--   ![codewars](https://www.codewars.com/users/anas-arsyad/badges/small) -->
  
 
 <!--
