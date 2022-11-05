@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Anas Arsyad</h1>
 <h3 align="center">A FullStack Engineer</h3>
 
+:mailbox: Reach me out!
+
+ [![Mail Badge](https://img.shields.io/badge/anas--arsyad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anasarsyad10@gmail.com)
+
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 🌱 I’m currently learning **Golang and AWS**
