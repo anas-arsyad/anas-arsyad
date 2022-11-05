@@ -29,3 +29,6 @@
 
 ### ⚙️ Technologies
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=blue)](#)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-arsyad&show_icons=true&locale=en" alt="anas-arsyad" /></p>
